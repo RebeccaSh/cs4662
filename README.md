@@ -3,6 +3,8 @@ CSULA cs4662 Advanced Machine Learning
 
 
 
-##Final Project
+Final Project
+
 Kaggle
+
 Humpback Whale Identification Challenge
